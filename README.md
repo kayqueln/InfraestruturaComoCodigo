@@ -9,4 +9,4 @@ Para rodar o projeto execute os seguintes comandos:
 - terraform plan
 - terraform apply 
 
-*Lembre-se de configurar suas credenciais da AWS na sua maquina local 😃👍
+*Lembre-se de configurar suas credenciais da AWS na sua máquina local 😃👍
