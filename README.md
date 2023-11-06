@@ -1,5 +1,5 @@
 # InfraestruturaComoCodigo
-Meu primeiro projeto que provisiona uma infraestrutura via terraform 
+Projeto que provisiona uma infraestrutura via terraform 
 
 Este código faz:
 - Provisiona uma instância na AWS utilizando uma imagem do Linux, via Terraform.</br>
