@@ -1,15 +1,12 @@
 # InfraestruturaComoCodigo
-Projeto que provisiona uma infraestrutura via terraform 
+Meu primeiro projeto que provisiona uma infraestrutura via terraform 
 
-Este código faz:
-- Provisiona uma instância na AWS utilizando uma imagem do Linux, via Terraform.</br>
-- Instala as dependencias de um projeto Python com Django, via Ansible
-- Roda um Sell script dentro do arquivo settings.py para configurar os IP's que podem acessar o servidor
-- Sobe o servidor do Djando dentro da EC2 na AWS.
+Provisionei uma instância na AWS utilizando uma imagem do Linux, via Terraform.
+Configurei as dependencias de um projeto Python com Django, configurei o mesmo e subi o servidor do Djando na instância EC2
 
-Para rodar o projeto execute os seguintes comandos: 
+Para rodar o projeto execute os comandos: 
 - terraform init
 - terraform plan
 - terraform apply 
 
-*Lembre-se de configurar suas credenciais da AWS na sua máquina local 😃👍
+*Lembre-se de configurar suas credenciais da AWS na sua maquina local 😃👍
